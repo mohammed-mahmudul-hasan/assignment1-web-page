@@ -1,0 +1,154 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+
+h1 {
+    font-size: 65px;
+}
+
+h2 {
+    font-size: 45px;
+}
+
+h3 {
+    size: 24px;
+}
+
+p {
+    font-size: 18px;
+}
+
+
+.button-design {
+    background-color: #FF5959;
+    border-radius: 5px;
+    padding: 16px 12px;
+    color: white;
+    border: none;
+    width: 160px;
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+.section1 {
+    background-image: url(images/donation12.png);
+    height: 669px;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.section2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin: 100px 100px;
+}
+
+.section4 {
+    display: flex;
+    margin-bottom: 100px;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.division1 {
+
+    text-align: center;
+    width: 726px;
+}
+
+.div-for-sec2 {
+    margin: 30px 30px;
+    text-align: center;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+#text1 {
+    margin-left: 90px;
+    margin-right: 90px;
+}
+
+.sub-division {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sub-division-design {
+    font-size: 30px;
+    width: 135px;
+    height: 123px;
+    text-align: center;
+    padding: 10px 10px;
+}
+
+#special-amount {
+    background-color: #FFEEEE;
+    color: #FF5959;
+    border-radius: 5px;
+    border: solid #FF5959;
+}
+
+#input-amount {
+    width: 700px;
+    font-size: 25px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-grey {
+    color: grey;
+}
+
+.text-white {
+    color: white;
+}
+
+.box {
+    width: 352px;
+    height: 360px;
+    margin-right: 1%;
+    margin-left: 1%;
+    box-shadow: 10px 10px 40px grey;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+#box1 {
+    background-color: #d8eff1;
+}
+
+#box2 {
+    background-color: #e4c6c6;
+}
+
+#box3 {
+    background-color: #dee9eb;
+}
+
+.form1 {
+    background-color: #FFF4D6;
+    width: 809px;
+    height: 200px;
+}
+
+.footer-style {
+    text-align: center;
+    color: orangered;
+    background-color: black;
+
+}
+
+.footer-div {
+    padding: 20px;
+}
