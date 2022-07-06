@@ -115,7 +115,7 @@ p {
 }
 
 .box {
-    width: 352px;
+    width: 400px;
     height: 360px;
     margin-right: 1%;
     margin-left: 1%;
@@ -133,7 +133,7 @@ p {
 }
 
 #box3 {
-    background-color: #dee9eb;
+    background-color: #f7efc5;
 }
 
 .form1 {
@@ -151,4 +151,8 @@ p {
 
 .footer-div {
     padding: 20px;
+}
+
+.half-part {
+    width: 40%;
 }
